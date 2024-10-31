@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gabriel-eb
 - 👀 I’m interested in videogames, web dev, design & literature
-- 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on a videogame & web dev
+- 🌱 I’m currently learning Threejs
+- 💞️ I’m looking to collaborate on web dev libs
 <!-- - 📫 Reach me on gabo_espburg@hotmail.com -->
 
 <!---
